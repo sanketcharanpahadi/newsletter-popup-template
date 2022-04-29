@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.codewell.cc/challenges/newsletter-popup-template--60a8db35203a0e6180bb5035/solution/626c2d3df41d4c4a88042247](https://www.codewell.cc/challenges/newsletter-popup-template--60a8db35203a0e6180bb5035/solution/626c2d3df41d4c4a88042247)
 - Live Site URL: [https://sanketcharanpahadi.github.io/newsletter-popup-template/](https://sanketcharanpahadi.github.io/newsletter-popup-template/)
 
 ## My process
