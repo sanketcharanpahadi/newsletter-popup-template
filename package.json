@@ -1,0 +1,27 @@
+{
+  "name": "newsletter-popup-template",
+  "version": "1.0.0",
+  "description": "Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanketcharanpahadi/newsletter-popup-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanketcharanpahadi/newsletter-popup-template/issues"
+  },
+  "homepage": "https://github.com/sanketcharanpahadi/newsletter-popup-template#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.5",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.6"
+  }
+}
